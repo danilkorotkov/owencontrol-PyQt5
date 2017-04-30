@@ -16,7 +16,7 @@
 ##
 ###########################################################################################
 -->
-<project version="1.1.0" name="owen control">
+<project version="1.1.0" name="owen control PyQt5 Python 3">
     <variable name="XUP.MAIN_FILE">
         <value>metro_uic.py</value>
     </variable>

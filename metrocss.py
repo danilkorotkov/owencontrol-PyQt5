@@ -61,35 +61,35 @@ data_passive=_fromUtf8("border-style: outset;\n"
 "")
 
 prog_active=_fromUtf8("border-style: outset;\n"
-"font: 16pt \"Free Helvetian\";\n"
+"font: 16pt \"HelveticaNeueCyr\";\n"
 "color:black;\n"
 " text-align: center;\n"
 " background-color: rgb(231, 126, 35);\n"
 "")
 
 prog_passive=_fromUtf8("border-style: outset;\n"
-"font: 16pt \"Free Helvetian\";\n"
+"font: 16pt \"HelveticaNeueCyr\";\n"
 "color:black;\n"
 " text-align: center;\n"
 " background-color: rgb(194, 194, 194);\n"
 "")
 
 StartButton_active=_fromUtf8("border-style: outset;\n"
-"font: 18pt \"Free Helvetian\";\n"
+"font: 18pt \"HelveticaNeueCyr\";\n"
 "color:white;\n"
 " font-weight: bold;\n"
 " text-align: center;\n"
 " background-color: rgb(63, 179, 79);")
 
 StartButton_passive=_fromUtf8("border-style: outset;\n"
-"font: 18pt \"Free Helvetian\";\n"
+"font: 18pt \"HelveticaNeueCyr\";\n"
 "color:white;\n"
 " font-weight: bold;\n"
 " text-align: center;\n"
 " background-color:  rgb(183, 183, 183);")
 
 StopButton_active=_fromUtf8("border-style: outset;\n"
-"font: 18pt \"Free Helvetian\";\n"
+"font: 18pt \"HelveticaNeueCyr\";\n"
 "color:white;\n"
 " font-weight: bold;\n"
 " text-align: center;\n"
@@ -97,7 +97,7 @@ StopButton_active=_fromUtf8("border-style: outset;\n"
 "")
 
 StopButton_passive=_fromUtf8("border-style: outset;\n"
-"font: 18pt \"Free Helvetian\";\n"
+"font: 18pt \"HelveticaNeueCyr\";\n"
 "color:white;\n"
 " font-weight: bold;\n"
 " text-align: center;\n"
@@ -105,13 +105,13 @@ StopButton_passive=_fromUtf8("border-style: outset;\n"
 "")
 
 SetButtons_passive=_fromUtf8("border-style: outset;\n"
-"font: 16pt \"Free Helvetian\";\n"
+"font: 16pt \"HelveticaNeueCyr\";\n"
 "color:black;\n"
 " text-align: center;\n"
 " background-color: rgb(194, 194, 194);\n"
 "")
 SetButtons_active=_fromUtf8("border-style: outset;\n"
-"font: 16pt \"Free Helvetian\";\n"
+"font: 16pt \"HelveticaNeueCyr\";\n"
 "color:black;\n"
 " text-align: center;\n"
 " background-color: rgb(231, 126, 35);\n"
@@ -132,53 +132,53 @@ MainTemp_waiting=_fromUtf8("border-style: outset;\n"
 "")
 
 Channel_waiting=_fromUtf8("border-style: outset;\n"
-"font: 16pt \"Free Helvetian\";\n"
-"padding: -7px;\n"
+"font: 16pt \"HelveticaNeueCyr\";\n"
+"padding: 2px;\n"
 "color:black;\n"
 "background-color: rgb(114, 208, 244);")
 
 Channel_working=_fromUtf8("border-style: outset;\n"
-"font: 16pt \"Free Helvetian\";\n"
-"padding: -7px;\n"
+"font: 16pt \"HelveticaNeueCyr\";\n"
+"padding: 2px;\n"
 "color:black;\n"
 "background-color: rgb(231, 126, 35);")
 
 InfoPanel_working=_fromUtf8("border-style: outset;\n"
-"font: 14pt \"Free Helvetian\";\n"
-"padding: -6px;\n"
+"font: 14pt \"HelveticaNeueCyr\";\n"
+"padding: 3px;\n"
 "color:black;\n"
 "background-color: rgb(231, 126, 35);")
 
 InfoPanel_waiting=_fromUtf8("border-style: outset;\n"
-"font: 14pt \"Free Helvetian\";\n"
-"padding: -6px;\n"
+"font: 14pt \"HelveticaNeueCyr\";\n"
+"padding: 3px;\n"
 "color:black;\n"
 "background-color: rgb(114, 208, 244);")
 
 Sets_waiting=_fromUtf8("border-style: outset;\n"
-"font: 14pt \"Free Helvetian\";\n"
-"padding: 0px;\n"
+"font: 14pt \"HelveticaNeueCyr\";\n"
+"padding: 9px;\n"
 "color:black;\n"
 "background-color: rgb(114, 208, 244);\n"
 "")
 
 Sets_working=_fromUtf8("border-style: outset;\n"
-"font: 14pt \"Free Helvetian\";\n"
-"padding: 0px;\n"
+"font: 14pt \"HelveticaNeueCyr\";\n"
+"padding: 9px;\n"
 "color:black;\n"
 "background-color: rgb(231, 126, 35);\n"
 "")
 
 Rate_Counter_working=_fromUtf8("border-style: outset;\n"
-"font: 12pt \"Free Helvetian\";\n"
-"padding: -2px;\n"
+"font: 14pt \"HelveticaNeueCyr\";\n"
+"padding: 10px;\n"
 "color:black;\n"
 "background-color: rgb(231, 126, 35);\n"
 "")
 
 Rate_Counter_waiting=_fromUtf8("border-style: outset;\n"
-"font: 12pt \"Free Helvetian\";\n"
-"padding: -2px;\n"
+"font: 14pt \"HelveticaNeueCyr\";\n"
+"padding: 10px;\n"
 "color:black;\n"
 "background-color: rgb(114, 208, 244);\n"
 "")
@@ -189,7 +189,7 @@ def settemp(temp):
     out=_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'Free Helvetian\'; font-size:14pt; font-weight:400; font-style:normal;\">\n"
+"</style></head><body style=\" font-family:\'HelveticaNeueCyr\'; font-size:16pt; font-weight:400; font-style:normal;\">\n"
 "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">Уставка: </p>\n"
 "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"> %.1f </p></body></html>"%temp, None)
     return out
@@ -198,7 +198,7 @@ def setdelay(timedelay):
     out=_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'Free Helvetian\'; font-size:14pt; font-weight:400; font-style:normal;\">\n"
+"</style></head><body style=\" font-family:\'HelveticaNeueCyr\'; font-size:16pt; font-weight:400; font-style:normal;\">\n"
 "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">Выдержка: </p>\n"
 "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"> %s:00 </p></body></html>"%timedelay, None)
     return out
@@ -207,29 +207,29 @@ def Show_temp(temp):
     out =_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'Free Helvetian\'; font-size:16pt; font-weight:400; font-style:normal;\">\n"
+"</style></head><body style=\" font-family:\'HelveticaNeueCyr\'; font-size:16pt; font-weight:400; font-style:normal;\">\n"
 "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"> %s </p></body></html>"%temp, None)
     return out
 def Show_Counter(count):
     out=_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'Free Helvetian\'; font-size:12pt; font-weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:14pt;\">Счетчик:</span></p>\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:14pt;\"> %i </span></p></body></html>"%count, None)
+"</style></head><body style=\" font-family:\'HelveticaNeueCyr\'; font-size:12pt; font-weight:400; font-style:normal;\">\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:16pt;\">Счетчик:</span></p>\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:16pt;\"> %i </span></p></body></html>"%count, None)
     return out
 def Show_User_Data (data):
     out=_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'Free Helvetian\'; font-size:10pt; font-weight:400; font-style:normal;\">\n"
+"</style></head><body style=\" font-family:\'HelveticaNeueCyr\'; font-size:10pt; font-weight:400; font-style:normal;\">\n"
 "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-family:\'HelveticaNeueCyr\'; font-size:82pt;\"> %s </span></p></body></html>"%data, None)
     return out
 def Show_Main_Temp (temp):
     out=_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'Free Helvetian\'; font-size:10pt; font-weight:400; font-style:normal;\">\n"
+"</style></head><body style=\" font-family:\'HelveticaNeueCyr\'; font-size:10pt; font-weight:400; font-style:normal;\">\n"
 "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-family:\'HelveticaNeueCyr\'; font-size:78pt;\"> %s </span></p></body></html>"%temp, None)
     return out
 def SetLabelText (text):
@@ -240,7 +240,7 @@ def SetInfoPanelText (text):
     out=_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'Free Helvetian\'; font-size:14pt; font-weight:400; font-style:normal;\">\n"
+"</style></head><body style=\" font-family:\'HelveticaNeueCyr\'; font-size:14pt; font-weight:400; font-style:normal;\">\n"
 "<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">Статус: %s</p></body></html>"%text, None)
     return out
 
@@ -248,7 +248,7 @@ def Show_Rate (text):
     out=_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
-"</style></head><body style=\" font-family:\'Free Helvetian\'; font-size:12pt; font-weight:400; font-style:normal;\">\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:14pt;\">Скорость:</span></p>\n"
-"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:14pt;\">%.1f°С/мин</span></p></body></html>"%text, None)
+"</style></head><body style=\" font-family:\'HelveticaNeueCyr\'; font-size:12pt; font-weight:400; font-style:normal;\">\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:16pt;\">Скорость:</span></p>\n"
+"<p align=\"center\" style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" font-size:16pt;\">%.1f°С/мин</span></p></body></html>"%text, None)
     return out    

@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>1280</width>
-    <height>1024</height>
+    <height>1026</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -187,7 +187,7 @@ p, li { white-space: pre-wrap; }
      <bool>false</bool>
     </property>
     <property name="styleSheet">
-     <string notr="true">font: 48pt &quot;Free Helvetian&quot;;
+     <string notr="true">font: 48pt &quot;HelveticaNeueCyr&quot;;
   color: white;
 
 </string>
@@ -241,7 +241,7 @@ p, li { white-space: pre-wrap; }
     <property name="styleSheet">
      <string notr="true">border-style: outset;
 font: 14pt &quot;Free Helvetian&quot;;
-padding: -6px;
+padding:3px;
 color:black;
 background-color: rgb(114, 208, 244);</string>
     </property>
@@ -256,7 +256,7 @@ background-color: rgb(114, 208, 244);</string>
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Free Helvetian'; font-size:14pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Статус:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'HelveticaNeueCyr';&quot;&gt;Статус:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
     </property>
     <property name="textInteractionFlags">
      <set>Qt::NoTextInteraction</set>
@@ -291,8 +291,8 @@ p, li { white-space: pre-wrap; }
     </property>
     <property name="styleSheet">
      <string notr="true">border-style: outset;
-font: 14pt &quot;Free Helvetian&quot;;
-padding: 0px;
+font: 14pt &quot;HelveticaNeueCyr&quot;;
+padding: 9px;
 color:black;
 background-color: rgb(114, 208, 244);
 </string>
@@ -307,9 +307,9 @@ background-color: rgb(114, 208, 244);
      <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Free Helvetian'; font-size:14pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Уставка: &lt;/p&gt;
-&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;200.0&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'HelveticaNeueCyr'; font-size:14pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:16pt;&quot;&gt;Уставка: &lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:16pt;&quot;&gt;200.0&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
     </property>
     <property name="textInteractionFlags">
      <set>Qt::NoTextInteraction</set>
@@ -345,7 +345,7 @@ p, li { white-space: pre-wrap; }
     <property name="styleSheet">
      <string notr="true">border-style: outset;
 font: 14pt &quot;Free Helvetian&quot;;
-padding: 0px;
+padding: 9px;
 color:black;
 background-color: rgb(114, 208, 244);
 </string>
@@ -361,8 +361,8 @@ background-color: rgb(114, 208, 244);
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Free Helvetian'; font-size:14pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Выдержка: &lt;/p&gt;
-&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;10:00&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'HelveticaNeueCyr';&quot;&gt;Выдержка: &lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'HelveticaNeueCyr';&quot;&gt;10:00&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
     </property>
     <property name="textInteractionFlags">
      <set>Qt::NoTextInteraction</set>
@@ -442,8 +442,8 @@ background-color: none;</string>
     </property>
     <property name="styleSheet">
      <string notr="true">border-style: outset;
-font: 12pt &quot;Free Helvetian&quot;;
-padding: -2px;
+font: 12pt &quot;HelveticaNeueCyr&quot;;
+padding: 10px;
 color:black;
 background-color: rgb(114, 208, 244);
 </string>
@@ -458,12 +458,15 @@ background-color: rgb(114, 208, 244);
      <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Free Helvetian'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'HelveticaNeueCyr'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:14pt;&quot;&gt;Счетчик:&lt;/span&gt;&lt;/p&gt;
 &lt;p align=&quot;center&quot; style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
     </property>
     <property name="textInteractionFlags">
      <set>Qt::NoTextInteraction</set>
+    </property>
+    <property name="placeholderText">
+     <string notr="true"/>
     </property>
    </widget>
    <widget class="QTextEdit" name="Rate1">
@@ -496,7 +499,7 @@ p, li { white-space: pre-wrap; }
     <property name="styleSheet">
      <string notr="true">border-style: outset;
 font: 12pt &quot;Free Helvetian&quot;;
-padding: -2px;
+padding: 10px;
 color:black;
 background-color: rgb(114, 208, 244);
 </string>
@@ -512,8 +515,8 @@ background-color: rgb(114, 208, 244);
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Free Helvetian'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:14pt;&quot;&gt;Скорость:&lt;/span&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:14pt;&quot;&gt;°С/мин&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'HelveticaNeueCyr'; font-size:14pt;&quot;&gt;Скорость:&lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'HelveticaNeueCyr'; font-size:14pt;&quot;&gt;°С/мин&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
     </property>
     <property name="textInteractionFlags">
      <set>Qt::NoTextInteraction</set>
@@ -548,7 +551,7 @@ p, li { white-space: pre-wrap; }
     </property>
     <property name="styleSheet">
      <string notr="true">border-style: outset;
-font: 16pt &quot;Free Helvetian&quot;;
+font: 16pt &quot;HelveticaNeueCyr&quot;;
 color:black;
  text-align: center;
  background-color: rgb(194, 194, 194);
@@ -556,7 +559,8 @@ color:black;
     </property>
     <property name="text">
      <string>180°С
- 15'</string>
+
+15'</string>
     </property>
     <property name="icon">
      <iconset>
@@ -598,7 +602,7 @@ color:black;
     </property>
     <property name="styleSheet">
      <string notr="true">border-style: outset;
-font: 16pt &quot;Free Helvetian&quot;;
+font: 16pt &quot;HelveticaNeueCyr&quot;;
 color:black;
  text-align: center;
  background-color: rgb(194, 194, 194);
@@ -606,7 +610,8 @@ color:black;
     </property>
     <property name="text">
      <string>190°С
- 10'</string>
+
+10'</string>
     </property>
     <property name="icon">
      <iconset>
@@ -648,7 +653,7 @@ color:black;
     </property>
     <property name="styleSheet">
      <string notr="true">border-style: outset;
-font: 16pt &quot;Free Helvetian&quot;;
+font: 16pt &quot;HelveticaNeueCyr&quot;;
 color:black;
  text-align: center;
  background-color: rgb(194, 194, 194);
@@ -656,7 +661,8 @@ color:black;
     </property>
     <property name="text">
      <string>200°С
- 10'</string>
+
+10'</string>
     </property>
     <property name="icon">
      <iconset>
@@ -698,7 +704,7 @@ color:black;
     </property>
     <property name="styleSheet">
      <string notr="true">border-style: outset;
-font: 16pt &quot;Free Helvetian&quot;;
+font: 16pt &quot;HelveticaNeueCyr&quot;;
 color:black;
  text-align: center;
  background-color: rgb(194, 194, 194);
@@ -742,7 +748,7 @@ color:black;
      <bool>false</bool>
     </property>
     <property name="styleSheet">
-     <string notr="true">font: 48pt &quot;Free Helvetian&quot;;
+     <string notr="true">font: 48pt &quot;HelveticaNeueCyr&quot;;
   color: white;
 
 </string>
@@ -795,7 +801,7 @@ color:black;
     </property>
     <property name="styleSheet">
      <string notr="true">border-style: outset;
-font: 16pt &quot;Free Helvetian&quot;;
+font: 16pt &quot;HelveticaNeueCyr&quot;;
 color:black;
  text-align: center;
  background-color: rgb(194, 194, 194);
@@ -803,7 +809,8 @@ color:black;
     </property>
     <property name="text">
      <string>Контроль
- ТЭНов</string>
+
+ТЭНов</string>
     </property>
     <property name="iconSize">
      <size>
@@ -841,8 +848,7 @@ color:black;
     </property>
     <property name="styleSheet">
      <string notr="true">border-style: outset;
-font: 16pt &quot;Free Helvetian&quot;;
-padding: 0px;
+font: 16pt &quot;HelveticaNeueCyr&quot;;
 color:black;
  text-align: center;
  background-color: rgb(194, 194, 194);
@@ -887,7 +893,7 @@ color:black;
     </property>
     <property name="styleSheet">
      <string notr="true">border-style: outset;
-font: 16pt &quot;Free Helvetian&quot;;
+font: 16pt &quot;HelveticaNeueCyr&quot;;
 color:black;
  text-align: center;
  background-color: rgb(194, 194, 194);
@@ -931,7 +937,7 @@ color:black;
      <bool>false</bool>
     </property>
     <property name="styleSheet">
-     <string notr="true">font: 48pt &quot;Free Helvetian&quot;;
+     <string notr="true">font: 48pt &quot;HelveticaNeueCyr&quot;;
   color: white;
 
 </string>
@@ -984,8 +990,7 @@ color:black;
     </property>
     <property name="styleSheet">
      <string notr="true">border-style: outset;
-font: 16pt &quot;Free Helvetian&quot;;
-padding: 0px;
+font: 16pt &quot;HelveticaNeueCyr&quot;;
 color:black;
  text-align: center;
  background-color: rgb(194, 194, 194);
@@ -1030,7 +1035,7 @@ color:black;
     </property>
     <property name="styleSheet">
      <string notr="true">border-style: outset;
-font: 16pt &quot;Free Helvetian&quot;;
+font: 16pt &quot;HelveticaNeueCyr&quot;;
 color:black;
  text-align: center;
  background-color: rgb(194, 194, 194);
@@ -1038,7 +1043,8 @@ color:black;
     </property>
     <property name="text">
      <string>Вентилятор
- разрешен</string>
+
+разрешен</string>
     </property>
     <property name="iconSize">
      <size>
@@ -1076,7 +1082,7 @@ color:black;
     </property>
     <property name="styleSheet">
      <string notr="true">border-style: outset;
-font: 16pt &quot;Free Helvetian&quot;;
+font: 16pt &quot;HelveticaNeueCyr&quot;;
 color:black;
  text-align: center;
  background-color: rgb(194, 194, 194);
@@ -1084,7 +1090,8 @@ color:black;
     </property>
     <property name="text">
      <string>История
- запусков</string>
+
+запусков</string>
     </property>
     <property name="iconSize">
      <size>
@@ -1167,8 +1174,8 @@ background-color: none;</string>
     </property>
     <property name="styleSheet">
      <string notr="true">border-style: outset;
-font: 16pt &quot;Free Helvetian&quot;;
-padding: -7px;
+font: 16pt &quot;HelveticaNeueCyr&quot;;
+padding: 2px;
 color:black;
 background-color: rgb(114, 208, 244);</string>
     </property>
@@ -1182,11 +1189,14 @@ background-color: rgb(114, 208, 244);</string>
      <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Free Helvetian'; font-size:16pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p align=&quot;center&quot; style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'HelveticaNeueCyr'; font-size:16pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;22.2&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
     </property>
     <property name="textInteractionFlags">
      <set>Qt::NoTextInteraction</set>
+    </property>
+    <property name="placeholderText">
+     <string notr="true"/>
     </property>
    </widget>
    <widget class="QPushButton" name="p2_1">
@@ -1218,7 +1228,7 @@ p, li { white-space: pre-wrap; }
     </property>
     <property name="styleSheet">
      <string notr="true">border-style: outset;
-font: 16pt &quot;Free Helvetian&quot;;
+font: 16pt &quot;HelveticaNeueCyr&quot;;
 color:black;
  text-align: center;
  background-color: rgb(194, 194, 194);
@@ -1226,7 +1236,8 @@ color:black;
     </property>
     <property name="text">
      <string>180°С
- 15'</string>
+
+15'</string>
     </property>
     <property name="icon">
      <iconset>
@@ -1267,7 +1278,7 @@ color:black;
      <bool>false</bool>
     </property>
     <property name="styleSheet">
-     <string notr="true">font: 48pt &quot;Free Helvetian&quot;;
+     <string notr="true">font: 48pt &quot;HelveticaNeueCyr&quot;;
   color: white;
 
 </string>
@@ -1359,7 +1370,7 @@ color:white;
      <bool>false</bool>
     </property>
     <property name="styleSheet">
-     <string notr="true">font: 48pt &quot;Free Helvetian&quot;;
+     <string notr="true">font: 48pt &quot;HelveticaNeueCyr&quot;;
   color: white;
 
 </string>
@@ -1412,7 +1423,7 @@ color:white;
     </property>
     <property name="styleSheet">
      <string notr="true">border-style: outset;
-font: 16pt &quot;Free Helvetian&quot;;
+font: 16pt &quot;HelveticaNeueCyr&quot;;
 color:black;
  text-align: center;
  background-color: rgb(194, 194, 194);
@@ -1420,7 +1431,8 @@ color:black;
     </property>
     <property name="text">
      <string>200°С
- 10'</string>
+
+10'</string>
     </property>
     <property name="icon">
      <iconset>
@@ -1501,8 +1513,7 @@ color:white;
     </property>
     <property name="styleSheet">
      <string notr="true">border-style: outset;
-font: 16pt &quot;Free Helvetian&quot;;
-padding: 0px;
+font: 16pt &quot;HelveticaNeueCyr&quot;;
 color:black;
  text-align: center;
  background-color: rgb(194, 194, 194);
@@ -1548,7 +1559,7 @@ color:black;
     <property name="styleSheet">
      <string notr="true">border-style: outset;
 font: 14pt &quot;Free Helvetian&quot;;
-padding: 0px;
+padding: 9px;
 color:black;
 background-color: rgb(114, 208, 244);
 </string>
@@ -1564,8 +1575,8 @@ background-color: rgb(114, 208, 244);
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Free Helvetian'; font-size:14pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Выдержка: &lt;/p&gt;
-&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;10:00&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'HelveticaNeueCyr';&quot;&gt;Выдержка: &lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'HelveticaNeueCyr';&quot;&gt;10:00&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
     </property>
     <property name="textInteractionFlags">
      <set>Qt::NoTextInteraction</set>
@@ -1600,8 +1611,8 @@ p, li { white-space: pre-wrap; }
     </property>
     <property name="styleSheet">
      <string notr="true">border-style: outset;
-font: 16pt &quot;Free Helvetian&quot;;
-padding: -7px;
+font: 16pt &quot;HelveticaNeueCyr&quot;;
+padding: 2px;
 color:black;
 background-color: rgb(114, 208, 244);</string>
     </property>
@@ -1615,11 +1626,14 @@ background-color: rgb(114, 208, 244);</string>
      <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Free Helvetian'; font-size:16pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p align=&quot;center&quot; style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'HelveticaNeueCyr'; font-size:16pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;22.2&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
     </property>
     <property name="textInteractionFlags">
      <set>Qt::NoTextInteraction</set>
+    </property>
+    <property name="placeholderText">
+     <string notr="true"/>
     </property>
    </widget>
    <widget class="QPushButton" name="Sensor2_2">
@@ -1651,8 +1665,7 @@ p, li { white-space: pre-wrap; }
     </property>
     <property name="styleSheet">
      <string notr="true">border-style: outset;
-font: 16pt &quot;Free Helvetian&quot;;
-padding: 0px;
+font: 16pt &quot;HelveticaNeueCyr&quot;;
 color:black;
  text-align: center;
  background-color: rgb(194, 194, 194);
@@ -1697,8 +1710,8 @@ color:black;
     </property>
     <property name="styleSheet">
      <string notr="true">border-style: outset;
-font: 16pt &quot;Free Helvetian&quot;;
-padding: -7px;
+font: 16pt &quot;HelveticaNeueCyr&quot;;
+padding: 2px;
 color:black;
 background-color: rgb(114, 208, 244);</string>
     </property>
@@ -1712,11 +1725,14 @@ background-color: rgb(114, 208, 244);</string>
      <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Free Helvetian'; font-size:16pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p align=&quot;center&quot; style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'HelveticaNeueCyr'; font-size:16pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;22.2&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
     </property>
     <property name="textInteractionFlags">
      <set>Qt::NoTextInteraction</set>
+    </property>
+    <property name="placeholderText">
+     <string notr="true"/>
     </property>
    </widget>
    <widget class="QTextEdit" name="SetTemp2">
@@ -1749,7 +1765,7 @@ p, li { white-space: pre-wrap; }
     <property name="styleSheet">
      <string notr="true">border-style: outset;
 font: 14pt &quot;Free Helvetian&quot;;
-padding: 0px;
+padding: 9px;
 color:black;
 background-color: rgb(114, 208, 244);
 </string>
@@ -1765,8 +1781,8 @@ background-color: rgb(114, 208, 244);
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Free Helvetian'; font-size:14pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Уставка: &lt;/p&gt;
-&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;200.0&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'HelveticaNeueCyr';&quot;&gt;Уставка: &lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'HelveticaNeueCyr';&quot;&gt;200.0&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
     </property>
     <property name="textInteractionFlags">
      <set>Qt::NoTextInteraction</set>
@@ -1801,7 +1817,7 @@ p, li { white-space: pre-wrap; }
     </property>
     <property name="styleSheet">
      <string notr="true">border-style: outset;
-font: 16pt &quot;Free Helvetian&quot;;
+font: 16pt &quot;HelveticaNeueCyr&quot;;
 color:black;
  text-align: center;
  background-color: rgb(194, 194, 194);
@@ -1846,8 +1862,8 @@ color:black;
     </property>
     <property name="styleSheet">
      <string notr="true">border-style: outset;
-font: 12pt &quot;Free Helvetian&quot;;
-padding: -2px;
+font: 12pt &quot;HelveticaNeueCyr&quot;;
+padding: 10px;
 color:black;
 background-color: rgb(114, 208, 244);
 </string>
@@ -1862,7 +1878,7 @@ background-color: rgb(114, 208, 244);
      <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Free Helvetian'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'HelveticaNeueCyr'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:14pt;&quot;&gt;Счетчик:&lt;/span&gt;&lt;/p&gt;
 &lt;p align=&quot;center&quot; style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
     </property>
@@ -1949,7 +1965,7 @@ p, li { white-space: pre-wrap; }
      <bool>false</bool>
     </property>
     <property name="styleSheet">
-     <string notr="true">font: 48pt &quot;Free Helvetian&quot;;
+     <string notr="true">font: 48pt &quot;HelveticaNeueCyr&quot;;
   color: white;
 
 </string>
@@ -2002,7 +2018,7 @@ p, li { white-space: pre-wrap; }
     </property>
     <property name="styleSheet">
      <string notr="true">border-style: outset;
-font: 16pt &quot;Free Helvetian&quot;;
+font: 16pt &quot;HelveticaNeueCyr&quot;;
 color:black;
  text-align: center;
  background-color: rgb(194, 194, 194);
@@ -2010,7 +2026,8 @@ color:black;
     </property>
     <property name="text">
      <string>190°С
- 10'</string>
+
+10'</string>
     </property>
     <property name="icon">
      <iconset>
@@ -2052,7 +2069,7 @@ color:black;
     </property>
     <property name="styleSheet">
      <string notr="true">border-style: outset;
-font: 16pt &quot;Free Helvetian&quot;;
+font: 16pt &quot;HelveticaNeueCyr&quot;;
 color:black;
  text-align: center;
  background-color: rgb(194, 194, 194);
@@ -2060,7 +2077,8 @@ color:black;
     </property>
     <property name="text">
      <string>Контроль
- ТЭНов</string>
+
+ТЭНов</string>
     </property>
     <property name="iconSize">
      <size>
@@ -2098,8 +2116,8 @@ color:black;
     </property>
     <property name="styleSheet">
      <string notr="true">border-style: outset;
-font: 12pt &quot;Free Helvetian&quot;;
-padding: -2px;
+font: 12pt &quot;HelveticaNeueCyr&quot;;
+padding: 10px;
 color:black;
 background-color: rgb(114, 208, 244);</string>
     </property>
@@ -2113,7 +2131,7 @@ background-color: rgb(114, 208, 244);</string>
      <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Free Helvetian'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'HelveticaNeueCyr'; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:14pt;&quot;&gt;Скорость:&lt;/span&gt;&lt;/p&gt;
 &lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:14pt;&quot;&gt;°С/мин&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
     </property>
@@ -2150,7 +2168,7 @@ p, li { white-space: pre-wrap; }
     </property>
     <property name="styleSheet">
      <string notr="true">border-style: outset;
-font: 16pt &quot;Free Helvetian&quot;;
+font: 16pt &quot;HelveticaNeueCyr&quot;;
 color:black;
  text-align: center;
  background-color: rgb(194, 194, 194);
@@ -2158,7 +2176,8 @@ color:black;
     </property>
     <property name="text">
      <string>Вентилятор
- разрешен</string>
+
+разрешен</string>
     </property>
     <property name="iconSize">
      <size>
@@ -2197,7 +2216,7 @@ color:black;
     <property name="styleSheet">
      <string notr="true">border-style: outset;
 font: 14pt &quot;Free Helvetian&quot;;
-padding: -6px;
+padding: 3px;
 color:black;
 background-color: rgb(114, 208, 244);</string>
     </property>
@@ -2212,7 +2231,7 @@ background-color: rgb(114, 208, 244);</string>
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Free Helvetian'; font-size:14pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Статус:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'HelveticaNeueCyr';&quot;&gt;Статус:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
     </property>
     <property name="textInteractionFlags">
      <set>Qt::NoTextInteraction</set>
@@ -2247,8 +2266,8 @@ p, li { white-space: pre-wrap; }
     </property>
     <property name="styleSheet">
      <string notr="true">border-style: outset;
-font: 16pt &quot;Free Helvetian&quot;;
-padding: -7px;
+font: 16pt &quot;HelveticaNeueCyr&quot;;
+padding: 2px;
 color:black;
 background-color: rgb(114, 208, 244);</string>
     </property>
@@ -2262,11 +2281,14 @@ background-color: rgb(114, 208, 244);</string>
      <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Free Helvetian'; font-size:16pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p align=&quot;center&quot; style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'HelveticaNeueCyr'; font-size:16pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;22.2&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
     </property>
     <property name="textInteractionFlags">
      <set>Qt::NoTextInteraction</set>
+    </property>
+    <property name="placeholderText">
+     <string notr="true"/>
     </property>
    </widget>
    <widget class="QTextEdit" name="Channel3">
@@ -2298,8 +2320,8 @@ p, li { white-space: pre-wrap; }
     </property>
     <property name="styleSheet">
      <string notr="true">border-style: outset;
-font: 16pt &quot;Free Helvetian&quot;;
-padding: -7px;
+font: 16pt &quot;HelveticaNeueCyr&quot;;
+padding: 2px;
 color:black;
 background-color: rgb(114, 208, 244);</string>
     </property>
@@ -2313,11 +2335,14 @@ background-color: rgb(114, 208, 244);</string>
      <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Free Helvetian'; font-size:16pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p align=&quot;center&quot; style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'HelveticaNeueCyr'; font-size:16pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;22.2&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
     </property>
     <property name="textInteractionFlags">
      <set>Qt::NoTextInteraction</set>
+    </property>
+    <property name="placeholderText">
+     <string notr="true"/>
     </property>
    </widget>
    <widget class="QTextEdit" name="Channel2">
@@ -2349,8 +2374,8 @@ p, li { white-space: pre-wrap; }
     </property>
     <property name="styleSheet">
      <string notr="true">border-style: outset;
-font: 16pt &quot;Free Helvetian&quot;;
-padding: -7px;
+font: 16pt &quot;HelveticaNeueCyr&quot;;
+padding: 2px;
 color:black;
 background-color: rgb(114, 208, 244);</string>
     </property>
@@ -2364,11 +2389,14 @@ background-color: rgb(114, 208, 244);</string>
      <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Free Helvetian'; font-size:16pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p align=&quot;center&quot; style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'HelveticaNeueCyr'; font-size:16pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;22.2&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
     </property>
     <property name="textInteractionFlags">
      <set>Qt::NoTextInteraction</set>
+    </property>
+    <property name="placeholderText">
+     <string notr="true"/>
     </property>
    </widget>
    <widget class="QPushButton" name="lockbut">
@@ -2442,7 +2470,7 @@ color:black;
     </property>
     <property name="styleSheet">
      <string notr="true">border-style: outset;
-font: 18pt &quot;Free Helvetian&quot;;
+font: 18pt &quot;HelveticaNeueCyr&quot;;
 color:black;
  font-weight: bold;
  text-align: center;
