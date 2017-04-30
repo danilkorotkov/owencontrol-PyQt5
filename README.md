@@ -1,2 +1,4 @@
-# owencontrol-PyQt5
-python 3 + PyQt5
+# owencontrol
+powder coating owen control terminal
+
+Monkey Studio project
