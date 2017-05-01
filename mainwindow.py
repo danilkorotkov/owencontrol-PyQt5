@@ -852,7 +852,7 @@ class MainWindow(QMainWindow, Ui_MainWindow):
                 self.TRate1.append(self.MTemp1)
                 self.TRate2.append(self.MTemp2)
                 
-            self.coldStart0=1
+            self.coldStart=1
         else:
             self.TRate1.append(self.MTemp1)
             self.TRate2.append(self.MTemp2)
