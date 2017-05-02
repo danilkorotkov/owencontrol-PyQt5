@@ -293,7 +293,7 @@ class GraphWindow (QMainWindow, Ui_MainWindow):
         w7.setPos(lx+20, ly+145)
         self.scene.addItem(w7)
 # Начало
-        s=time.gmtime(float(x0))
+        s=time.localtime(float(x0))
         min=str(s[4])
         if len(min)==1:
             min='0'+min
@@ -307,7 +307,7 @@ class GraphWindow (QMainWindow, Ui_MainWindow):
         w8.setPos(lx+20, ly+165)
         self.scene.addItem(w8)
 # Окончание
-        s=time.gmtime(float(x1))
+        s=time.localtime(float(x1))
         min=str(s[4])
         if len(min)==1:
             min='0'+min
